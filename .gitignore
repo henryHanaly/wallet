@@ -1,0 +1,4 @@
+*.exe
+api
+api-*
+*.out
